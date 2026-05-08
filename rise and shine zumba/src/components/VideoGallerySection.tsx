@@ -1,6 +1,6 @@
 import { useContent } from "@/hooks/useContent";
-import { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
+import { useState } from "react";
 
 interface VideoGallerySectionProps {
   sectionKey: string;
